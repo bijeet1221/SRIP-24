@@ -79,6 +79,6 @@ Results for each script (PyblkSim, Simulink, BDSim) are stored in separate CSV f
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## Contact
-For any inquiries or issues, please reach out to [Bijeet.Basak@iiitb.ac.in].
+For any inquiries or issues, please reach out to [Bijeet.Basak@iiitb.ac.in, kurian.polachan@iiitb.ac.in].
 
 ---
